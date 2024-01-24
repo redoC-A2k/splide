@@ -1,13 +1,12 @@
 {
-  "name": "@splidejs/splide",
+  "name": "@redoc_a2k/splide",
   "version": "4.1.4",
   "description": "Splide is a lightweight, flexible and accessible slider/carousel. No dependencies, no Lighthouse errors.",
-  "author": "Naotoshi Fujita",
+  "author": "Afshan Ahmed Khan",
   "license": "MIT",
   "main": "dist/js/splide.cjs.js",
   "module": "dist/js/splide.esm.js",
   "types": "dist/types/index.d.ts",
-  "svelte": "dist/js/splide.esm.js",
   "jsdelivr": "dist/js/splide.min.js",
   "keywords": [
     "splide",
@@ -23,10 +22,10 @@
   "homepage": "https://splidejs.com/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Splidejs/splide.git"
+    "url": "git+https://github.com/redoC-A2k/splide.git"
   },
   "bugs": {
-    "url": "https://github.com/Splidejs/splide/issues"
+    "url": "https://github.com/redoC-A2k/splide/issues"
   },
   "devDependencies": {
     "@babel/core": "^7.18.13",
